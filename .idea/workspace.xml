@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38dc6797-ebe5-4335-a5d3-5095eac24cea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="38dc6797-ebe5-4335-a5d3-5095eac24cea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,9 +163,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="663" />
-    <option name="y" value="21" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="481" />
+    <option name="y" value="46" />
     <option name="width" value="1266" />
     <option name="height" value="930" />
   </component>
@@ -281,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="14" width="844" height="620" extended-state="1" />
+    <frame x="321" y="31" width="844" height="620" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
